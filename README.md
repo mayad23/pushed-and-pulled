@@ -9,7 +9,7 @@ Research materials for the AIAS+ 2026 workshop on benchmarking and evaluating AI
 | Paper | [paper/](paper/) | Manuscript in preparation |
 | Poster (A0 portrait) | [poster/](poster/) | Final PDF to be added |
 | Slides | [slides/](slides/) | Presentation to be added |
-| Interactive diagrams and results | [interactive/](interactive/) | Interactive materials to be added |
+| Interactive diagrams and results | [interactive/](interactive/) | Added: download and open locally |
 | Experiment and analysis code | [simulated-military-crises](https://github.com/EmilioBarkett/simulated-military-crises) | Existing research repository |
 
 ## The study in brief
@@ -29,4 +29,4 @@ Action outcomes use predefined severity levels. Separate judge models assess the
 
 ## About the files
 
-The four material folders are being set up first. No study files, raw responses, API keys or final PDFs have been uploaded. Links will be updated as each artifact is ready.
+The interactive folder contains the design diagram and saved aggregate results explorer. Paper, poster and slides remain placeholders. No raw responses, API keys or final paper/poster/slide PDFs have been uploaded.

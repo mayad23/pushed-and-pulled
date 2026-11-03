@@ -1,0 +1,10 @@
+{
+  "run": "full-study-nine-2026-10-31",
+  "generated": "November 01, 2026 \u00b7 14:27 PST",
+  "selection": "Latest military AI-enabled decision support system attempt per trial; last format-valid judge attempt per branch; no invalid scores imputed. Judge agreement uses common valid branches.",
+  "sources": {
+    "trials.jsonl": "0bfaee83889e7f4f5ca4ecceb09580a4d93af2f1eea4e6e10a1c05ab5478156a",
+    "judgments-gemini-4-argon.jsonl": "85d17f60c12003305d6e5c79ea2f2162cd065cf51c291e69088d3a4113f92170",
+    "judgments-qwen3.8-max-0902.jsonl": "dca3e1b58aa5db35b91705bb88f95cbb1f438efd04c2dc4e74e285dc4f7f3004"
+  }
+}
