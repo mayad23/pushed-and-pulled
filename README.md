@@ -9,7 +9,7 @@ Research materials for the AIAS+ 2026 workshop on benchmarking and evaluating AI
 | Paper | [paper/](paper/) | Manuscript in preparation |
 | Poster (A0 portrait) | [poster/](poster/) | Final PDF to be added |
 | Slides | [slides/](slides/) | Presentation to be added |
-| Interactive diagrams and results | [interactive/](interactive/) | Added: download and open locally |
+| Interactive diagrams and results | [interactive/](interactive/) | [Open public website](https://pushed-and-pulled.shortknot4.chatgpt.site) |
 | Experiment and analysis code | [simulated-military-crises](https://github.com/EmilioBarkett/simulated-military-crises) | Existing research repository |
 
 ## The study in brief

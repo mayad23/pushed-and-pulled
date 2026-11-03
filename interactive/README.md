@@ -1,10 +1,14 @@
 # Interactive diagrams and results
 
+## Open the website
+
+[Explore the public results and diagrams](https://pushed-and-pulled.shortknot4.chatgpt.site) — no sign-in or downloads required.
+
 ## Explore locally
 
 Download this folder (or download the repository ZIP and extract it). Open `index.html` for the saved results explorer, or `branching.html` for the experimental-design diagram. The pages use local bundled data and make no model/API calls. For a local server, run `python3 -m http.server 8765` from this folder, then open http://localhost:8765.
 
-GitHub displays HTML source; it does not run these pages in the repository view. This repository is private and no public site has been deployed.
+GitHub displays HTML source; it does not run these pages in the repository view. This repository remains private; the public companion is hosted separately at the link above.
 
 ## Included
 
