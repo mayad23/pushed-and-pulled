@@ -1,22 +1,9 @@
-# Interactive diagrams and results
+# Pushed and Pulled: Research companion
 
-## Open the website
+Interactive study design and aggregate results for the AIAS+ 2026 study of operator influence on AI decision-support advice.
 
-[Explore the public results and diagrams](https://pushed-and-pulled.shortknot4.chatgpt.site) — no sign-in or downloads required.
+[Live website](https://pushed-and-pulled.shortknot4.chatgpt.site/)
 
-## Explore locally
+[Paper](https://github.com/mayad23/pushed-and-pulled/tree/main/paper), [poster](https://github.com/mayad23/pushed-and-pulled/tree/main/poster) and [presentation slides](https://github.com/mayad23/pushed-and-pulled/tree/main/slides) are uploaded to the materials repository.
 
-Download this folder (or download the repository ZIP and extract it). Open `index.html` for the saved results explorer, or `branching.html` for the experimental-design diagram. The pages use local bundled data and make no model/API calls. For a local server, run `python3 -m http.server 8765` from this folder, then open http://localhost:8765.
-
-GitHub displays HTML source; it does not run these pages in the repository view. This repository remains private; the public companion is hosted separately at the link above.
-
-## Included
-
-- `branching.html`: vary briefing, illustrative initial severity, pressure type and follow-up turn. This explains the protocol; it does not predict model behavior or show saved transcripts.
-- `index.html`: inspect action outcomes, model comparisons, Qwen/Gemini classification distributions and judge agreement.
-- `results.json` / `results.js`: saved aggregate study outcomes.
-- `comparisons.json` / `comparisons.js`: exploratory model comparisons with conditional uncertainty intervals.
-- `provenance.json`: source hashes and selection rules.
-- `figures/`: supporting results figures, with original study interpretation limits.
-
-Human validation of judge labels remains pending. Missing outcomes are excluded, not treated as no change. Conditional bootstrap uncertainty is specific to the selected models and materials. No raw conversations or credentials are included.
+This is a static results snapshot. Human validation of model-judge labels remains pending. Raw transcripts and API payloads are not included.

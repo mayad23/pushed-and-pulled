@@ -1,7 +1,5 @@
 # Slides
 
-Reserved for the conference presentation PDF, editable deck and speaker notes.
-
-No presentation files have been added yet.
+The conference presentation is uploaded in this folder.
 
 [Back to project overview](../README.md)

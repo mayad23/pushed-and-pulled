@@ -1,7 +1,5 @@
 # Poster
 
-Reserved for the final A0 portrait poster, preview image and editable-source information.
-
-No poster files have been added yet.
+The conference poster is uploaded in this folder.
 
 [Back to project overview](../README.md)

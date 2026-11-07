@@ -1,7 +1,5 @@
 # Paper
 
-Reserved for the working manuscript, final conference PDF and supplementary material.
-
-No manuscript files have been added yet.
+The study manuscript is uploaded in this folder.
 
 [Back to project overview](../README.md)
